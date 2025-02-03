@@ -13,66 +13,99 @@
 ---
 
 ## 👨‍💻 **About Me**  
-
-- 🏠 **Location:** Amsterdam, Netherlands  
-- 🚀 **Passionate About:** **Automation, AI, Discord Bots, API Development, Web Development**  
-- 📖 **Currently Learning:** **Advanced Python, FastAPI, AI/ML, and Web Scraping**  
-- 🎯 **Main Focus:** **Building automation tools, Discord bots, and backend systems**  
-- 🧩 **Fun Fact:** I turn **coffee ☕ into code 💻** and love **breaking and fixing things**  
-
----
-
-## 🛠️ **Tech Stack**  
-
-### **💻 Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-
-### **📚 Frameworks & Libraries**  
-- 🏗️ **Flask** – Lightweight backend framework  
-- 🤖 **Discord.py** – Creating powerful Discord bots  
-- ⚡ **FastAPI** – High-performance web APIs  
-- 🌐 **Jinja2** – HTML templating for Flask  
-- 🔹 **BeautifulSoup** – Web scraping  
-
-### **📡 Databases & Cloud**  
-- 🛢️ **MySQL / MariaDB** – Structured data management  
-- 📊 **MongoDB** – NoSQL database for scalable applications  
-- ☁️ **Firebase** – Real-time database & authentication  
-- 🌍 **Cloudflare** – Security & optimization  
-- 📤 **Supabase** – PostgreSQL-powered database  
-
-### **🛠️ Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+🔹 **Location:** Amsterdam, Netherlands  
+🚀 **Passionate About:** **Automation, AI, Web Scraping, API Development**  
+📖 **Currently Learning:** **Advanced Python, FastAPI, AI/ML**  
+💡 **Fun Fact:** I break things just to fix them again!  
+🎯 **Main Focus:** **Building automation tools, Discord bots, and backend systems**  
+☕ **Daily Routine:** **Code → Debug → Optimize → Repeat!**  
 
 ---
 
-## 🌟 **Featured Projects**  
-🚀 **[Midzesty](https://github.com/waytodreamy/midzesty)** – Custom configuration files for GitHub  
-🤖 **[Haze](https://github.com/waytodreamy/haze)** – A powerful bot for automation  
-🛠️ **[Selfbot](https://github.com/waytodreamy/selfbot)** – Personal automation scripts  
-📡 **[API Project](https://github.com/waytodreamy/api-project)** – A REST API for managing data  
-🔧 **[Web Scraper](https://github.com/waytodreamy/web-scraper)** – Automated data extraction tool  
-
----
-
-## 📊 **GitHub Stats & Achievements**  
+## 🏆 **GitHub at a Glance**  
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waytodreamy&show_icons=true&theme=tokyonight&hide=stars" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=waytodreamy&theme=tokyonight&hide_border=true" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waytodreamy&layout=compact&theme=tokyonight" alt="Top Languages">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=waytodreamy&theme=tokyonight" />
 </div>
 
 ---
 
-## 🏆 **GitHub Trophies**  
+## 🛠️ **Tech Stack & Tools**  
+
+### **💻 Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+
+### **📚 Frameworks & Libraries**  
+- 🚀 **Flask** – Lightweight web backend  
+- 🤖 **Discord.py** – Advanced Discord bot framework  
+- ⚡ **FastAPI** – Modern & high-performance APIs  
+- 🕵️ **BeautifulSoup** – Web scraping & data extraction  
+
+### **📡 Databases & Cloud**  
+- 🛢️ **MySQL, MariaDB, PostgreSQL**  
+- ☁️ **Firebase, Cloudflare, Supabase**  
+
+### **🛠️ Development Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+---
+
+## 🌟 **Featured Projects**  
+🔧 **[Midzesty](https://github.com/waytodreamy/midzesty)** – GitHub customization project  
+🤖 **[Haze](https://github.com/waytodreamy/haze)** – Advanced Discord bot  
+📡 **[API Project](https://github.com/waytodreamy/api-project)** – REST API management  
+🔍 **[Web Scraper](https://github.com/waytodreamy/web-scraper)** – Automated data extraction  
+
+---
+
+## 🏆 **Certifications & Achievements**  
+🏅 **Python Advanced Certification**  
+🏅 **Machine Learning Basics**  
+🏅 **Web Automation & Scraping Expert**  
+
+---
+
+## 🚀 **Roadmap & Future Plans**  
+✅ **Improve AI-powered Discord Bots**  
+✅ **Develop more APIs & automation tools**  
+✅ **Work on AI/ML projects (chatbots, analysis tools)**  
+🔜 **Launch a SaaS-based API product**  
+
+---
+
+## ⚡ **Workflow & Productivity**  
+🔹 **Daily Workflow:**  
+☕ **Coffee** → **Code** → **Debug** → **Repeat** 🔁  
+
+🔹 **Preferred Development Style:**  
+✅ **Clean Code**  
+✅ **DRY Principles**  
+✅ **Automate Everything**  
+
+---
+
+## 🏅 **Open Source Contributions**  
+I believe in **giving back to the community**!  
+🔹 **Maintainer** of **Haze (Discord bot)**  
+🔹 **Contributor** to multiple **open-source API projects**  
+🔹 **Helping Devs** in Discord automation, Python scripting, and more!  
+
+---
+
+## 🎯 **Random Fun Facts About Me**  
+🔥 I once **automated my morning coffee machine** using Python ☕  
+🚀 I’m **obsessed with automation** – if it can be scripted, I'll do it!  
+📱 I built a **Discord bot that manages over 100+ servers**  
+💡 I love **breaking things just to fix them again!**  
+
+---
+
+## 🔥 **GitHub Trophies**  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=waytodreamy&theme=tokyonight&no-bg=true&no-frame=true&column=6" />
 </p>
@@ -87,4 +120,6 @@
 ---
 
 ## ⭐ **Support & Collaboration**  
-**Like my work?** Give a ⭐ on my repositories & let’s collaborate on something amazing!  
+🔹 **Like my work?** Give a ⭐ on my repositories!  
+🔹 **Want to collaborate?** DM me on **Discord**!  
+🔹 **Looking for custom automation?** Let’s build something awesome!  
